@@ -1,0 +1,62 @@
+{
+  "university": {
+    "name": "Example University",
+    "location": "City, Country",
+    "website": "https://exampleuniversity.com",
+    "contact": {
+      "email": "info@exampleuniversity.com",
+      "phone": "+1234567890"
+    },
+    "enrollment_guide": [
+      {
+        "title": "Admissions Process",
+        "description": "Learn about the steps required to apply for admission to Example University.",
+        "steps": [
+          "Complete online application form.",
+          "Submit required documents (transcripts, letters of recommendation, etc.).",
+          "Pay application fee.",
+          "Wait for admission decision."
+        ]
+      },
+      {
+        "title": "Financial Aid",
+        "description": "Explore the various financial aid options available to students.",
+        "options": [
+          {
+            "name": "Scholarships",
+            "description": "Merit-based scholarships for outstanding students.",
+            "link": "https://exampleuniversity.com/scholarships"
+          },
+          {
+            "name": "Grants",
+            "description": "Need-based financial aid that does not require repayment.",
+            "link": "https://exampleuniversity.com/grants"
+          },
+          {
+            "name": "Loans",
+            "description": "Borrowed money that must be repaid with interest.",
+            "link": "https://exampleuniversity.com/loans"
+          }
+        ]
+      },
+      {
+        "title": "Programs Offered",
+        "description": "Browse through the various academic programs available at Example University.",
+        "programs": [
+          {
+            "name": "Computer Science",
+            "description": "Explore the world of computing and technology.",
+            "degree": "Bachelor of Science (B.S.)",
+            "link": "https://exampleuniversity.com/computer-science"
+          },
+          {
+            "name": "Business Administration",
+            "description": "Learn about management, finance, marketing, and more.",
+            "degree": "Bachelor of Business Administration (BBA)",
+            "link": "https://exampleuniversity.com/business-administration"
+          }
+        ]
+      }
+    ]
+  }
+}
